@@ -1,0 +1,14 @@
+#input {
+	float: left;
+	display: inline-block;
+	border:1px solid black;
+	margin: 0px;
+}
+
+#category_list {
+	float: right;
+	 
+	display: inline-block;
+	border:1px solid black;
+	margin: 0px;
+}

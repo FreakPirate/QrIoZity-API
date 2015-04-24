@@ -1,0 +1,20 @@
+{
+  "name": "Qriozity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "express-logger": "0.0.3",
+    "less-middleware": "^2.0.1",
+    "logger": "0.0.1",
+    "morgan": "^1.5.2",
+    "mysql": "^2.5.5"
+  }
+}
