@@ -2,7 +2,7 @@
   "name": "Qriozity",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "serve.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +15,7 @@
     "less-middleware": "^2.0.1",
     "logger": "0.0.1",
     "morgan": "^1.5.2",
+    "multer": "^0.1.8",
     "mysql": "^2.5.5"
   }
 }
